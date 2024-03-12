@@ -21,6 +21,8 @@ document.querySelector('#submitWorkout').addEventListener('click', displayWorkou
 const addNewGoal = () => {
     const goalInput = document.querySelector('#goalInput').value;
     const goalList = document.querySelector('#goalList');
+
+    
     
     // ⚠️ Hint 1: Check for duplicates
     // Use 'goalList' to get all existing goals and check if 'goalInput' matches any of them.
