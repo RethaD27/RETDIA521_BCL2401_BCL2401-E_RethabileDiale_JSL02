@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# RETDIA521_BCL2401_BCL2401-E_RethabileDiale_JSL02
 
-=======
->>>>>>> 231241e9b823778c3e5d556bcf22da56bdba4dc7
+# RETDIA521_BCL2401_BCL2401-E_RethabileDiale_JSL02
 # Fitness Tracker
 This project is a web application designed to help users track their fitness activities and goals. It provides features such as adding workouts, setting fitness goals, tracking water intake, monitoring weekly progress, toggling themes, and submitting weekly meal plans.
 
